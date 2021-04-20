@@ -35,7 +35,7 @@
 				  		<muleVersion>4.3.0</muleVersion>
 				  		<username>sourabh_kulkarni_07</username>
 				  		<password>7@Kulkarni</password>
-				  		<applicationName>test2</applicationName>
+				  		<applicationName>test-pras-kul-sour</applicationName>
 				  		<environment>Sandbox</environment>
 				  		<workerType>MICRO</workerType>
 				  		<objectStoreV2>true</objectStoreV2>
