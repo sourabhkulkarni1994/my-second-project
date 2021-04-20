@@ -30,18 +30,16 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-				  <armDeployment>
+				  <cloudHubDeployment>
 				  		<uri>https://anypoint.mulesoft.com</uri>
 				  		<muleVersion>4.3.0</muleVersion>
 				  		<username>sourabh_kulkarni_07</username>
 				  		<password>7@Kulkarni</password>
 				  		<applicationName>test2</applicationName>
 				  		<environment>Sandbox</environment>
-				  		<target>sourabh-dev</target>
-				  		<targetType>Server</targetType>
 				  		<workerType>MICRO</workerType>
 				  		<objectStoreV2>true</objectStoreV2>
-				  </armDeployment>
+				  </cloudHubDeployment>
 				<sharedLibraries>
                         <sharedLibrary>
                             <groupId>mysql</groupId>
