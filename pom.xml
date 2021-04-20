@@ -39,6 +39,12 @@
 				  		<environment>Sandbox</environment>
 				  		<workerType>MICRO</workerType>
 				  		<objectStoreV2>true</objectStoreV2>
+				  		<properties>
+				  		     <dbproperties.mule.host>mudb.learn.mulesoft.com</dbproperties.mule.host>
+				  		     <dbproperties.mule.port>3306</dbproperties.mule.port>
+				  		     <dbproperties.mule.user>mule</dbproperties.mule.user>
+				  		     <dbproperties.mule.password>5/jZFSxKqNE=</dbproperties.mule.password>
+				  		</properties>
 				  </cloudHubDeployment>
 				<sharedLibraries>
                         <sharedLibrary>
