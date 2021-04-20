@@ -1,0 +1,5 @@
+dbproperties:
+  mule.host: 'mudb.learn.mulesoft.com'
+  mule.port: '3306'
+  mule.user: 'mule'
+  mule.password: '![5/jZFSxKqNE=]'
